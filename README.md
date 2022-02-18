@@ -1,6 +1,6 @@
 **Counting Objects by Diffused Index:geometry-free and training-free approach**
 
-Copyright 2020, All Rights Reserved Code by Mengyi Tang, Maryam Yashtini, Sung Ha Kang for Paper, "Counting Objects by Diffused Index: geometry-free and training-free approach" (https://arxiv.org/abs/2110.08365)
+Copyright 2021, All Rights Reserved Code by Mengyi Tang, Maryam Yashtini, Sung Ha Kang for Paper, "Counting Objects by Diffused Index: geometry-free and training-free approach" (https://arxiv.org/abs/2110.08365)
 
 main_CODI_M.m    
 
